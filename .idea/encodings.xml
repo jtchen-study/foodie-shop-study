@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web" charset="UTF-8" />
+  </component>
+</project>
