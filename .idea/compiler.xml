@@ -24,8 +24,6 @@
       <module name="foodie-dev-search" target="1.8" />
       <module name="foodie-dev-service" target="1.8" />
       <module name="foodie-sso" target="1.8" />
-      <module name="temp" target="1.5" />
-      <module name="web" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
